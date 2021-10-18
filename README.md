@@ -19,6 +19,8 @@
 ├─▻ My personal website <a href="https://kinofool.xyz">kinofool.xyz</a>
 │
 └───────────────────────────────☉
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kinofool/kinofool/blob/master/devcard.svg" width="400" alt="KinoFool Dev Card"/></a>
 <!--
 ┌──┤ PROJECTS ├───────▰▰▰
 │
