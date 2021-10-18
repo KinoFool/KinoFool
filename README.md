@@ -1,5 +1,7 @@
 ### Hi there 	＼(＾▽＾)／
 
+<div align="left" width="500">
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kinofool/kinofool/blob/master/devcard.svg" width="256" align="left" alt="KinoFool Dev Card"/></a>
 <pre>
 ┌──[ WHOAMI ]─────────☉
 │
@@ -19,8 +21,9 @@
 ├─▻ My personal website <a href="https://kinofool.xyz">kinofool.xyz</a>
 │
 └───────────────────────────────☉
+</pre>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kinofool/kinofool/blob/master/devcard.svg" width="400" alt="KinoFool Dev Card"/></a>
+</div>
 <!--
 ┌──┤ PROJECTS ├───────▰▰▰
 │
@@ -32,7 +35,7 @@
 │
 └───────────────────────────────▰▰▰
 -->
-</pre>
+
 
 <!--
 **KinoFool/KinoFool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
