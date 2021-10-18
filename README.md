@@ -1,7 +1,11 @@
 ### Hi there 	＼(＾▽＾)／
 
 <div align="left" width="500">
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kinofool/kinofool/blob/master/devcard.svg" width="256" align="left" alt="KinoFool Dev Card"/></a>
+  
+  <a href="https://app.daily.dev/KinoFool">
+    <img src="https://github.com/kinofool/kinofool/blob/master/devcard.svg" width="256" align="left" alt="KinoFool Dev Card"/>
+  </a>
+  
 <pre>
 ┌──[ WHOAMI ]─────────☉
 │
