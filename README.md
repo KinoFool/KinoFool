@@ -19,11 +19,13 @@
 ├─▻ <a href="https://www.linkedin.com/in/nmary">LinkedIn</a>
 │
 └───────────────────────────────☉
+<!--
 ┌──[ SCHOOL WIP ]────────────☉
 │
-├─▻ A dasboard like netvibes
+├─▻ 
 │
 └───────────────────────────────☉
+-->
 ┌──[ WIP ]────────────☉
 │
 ├─▻ My personal website <a href="https://kinofool.xyz">kinofool.xyz</a>
@@ -32,17 +34,6 @@
 </pre>
 
 </div>
-<!--
-┌──┤ PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
-├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
-├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
-├─◈ <a href="https://github.com/thewhiteh4t/killcast">KillCast</a>
-├─◈ <a href="https://github.com/thewhiteh4t/flashsploit">FlashSploit</a>
-│
-└───────────────────────────────▰▰▰
--->
 
 
 <!--
