@@ -15,6 +15,7 @@
 
 ┌──[ SOCIAL ]─────────☉
 │
+├─▻ <a href="https://kinofool.github.io/linktree/">My LinkTree</a>
 ├─▻ <a href="https://twitter.com/kinofool_">Twitter</a>
 ├─▻ <a href="https://www.linkedin.com/in/nmary">LinkedIn</a>
 │
