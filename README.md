@@ -18,7 +18,7 @@
 ├─▻ <a href="https://kinofool.github.io/linktree/">My LinkTree</a>
 ├─▻ <a href="https://twitter.com/kinofool_">Twitter</a>
 ├─▻ <a href="https://www.linkedin.com/in/nmary">LinkedIn</a>
-├─▻ <a href="https://tryhackme.com/p/KinoFool">TryHackMe</a
+├─▻ <a href="https://tryhackme.com/p/KinoFool">TryHackMe</a>
 └───────────────────────────────☉
 <!--
 ┌──[ SCHOOL WIP ]────────────☉
