@@ -18,7 +18,7 @@
 ├─▻ <a href="https://kinofool.github.io/linktree/">My LinkTree</a>
 ├─▻ <a href="https://twitter.com/kinofool_">Twitter</a>
 ├─▻ <a href="https://www.linkedin.com/in/nmary">LinkedIn</a>
-│
+├─▻ <a href="https://tryhackme.com/p/KinoFool">TryHackMe</a
 └───────────────────────────────☉
 <!--
 ┌──[ SCHOOL WIP ]────────────☉
@@ -29,7 +29,7 @@
 -->
 ┌──[ WIP ]────────────☉
 │
-├─▻ My personal website <a href="https://kinofool.xyz">kinofool.xyz</a>
+├─▻ My personal website <a href="http://kinofool.xyz">kinofool.xyz</a>
 │
 └───────────────────────────────☉
 </pre>
